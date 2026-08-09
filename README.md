@@ -54,13 +54,6 @@ Anonymized, reproducible web app vulnerability findings — SQL Injection, XSS, 
 
 ---
 
-### `$ cat contact.txt`
-
-```
-LinkedIn  : [add your link here]
-Email     : [add if you want it public]
-```
-
 <div align="center">
 
 *All testing documented in this profile was performed in authorized environments with explicit permission.*
