@@ -6,7 +6,7 @@
 ```
 
 **Jose Abreu** — Web Application Penetration Tester
-`2 years of experience` · `Blackbox & Whitebox` · `Actively testing, actively learning`
+`Cybersecurity Expert` · `Blackbox & Whitebox` · `Actively testing, actively learning`
 
 ![SQL Injection](https://img.shields.io/badge/SQL_Injection-black?style=flat-square&logo=databricks&logoColor=white)
 ![XSS](https://img.shields.io/badge/XSS-black?style=flat-square&logo=javascript&logoColor=yellow)
@@ -44,13 +44,6 @@
 **[Cybersecurity_PentestWeb](https://github.com/Disclored/Cybersecurity_PentestWeb)** — Wordlists, testing methodology, and pentesting notes.
 
 ---
-
-### `$ finger jose-abreu`
-
-```
-Login: jose-abreu                       Name: Jose Abreu
-Role:  Web Application Penetration Tester
-```
 
 <div align="center">
 
