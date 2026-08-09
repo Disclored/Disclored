@@ -5,28 +5,16 @@
 └─$ whoami --verbose
 ```
 
+**Jose Abreu** — Web Application Penetration Tester
+`2 years of experience` · `Blackbox & Whitebox` · `Actively testing, actively learning`
+
+![SQL Injection](https://img.shields.io/badge/SQL_Injection-black?style=flat-square&logo=databricks&logoColor=white)
+![XSS](https://img.shields.io/badge/XSS-black?style=flat-square&logo=javascript&logoColor=yellow)
+![Access Control](https://img.shields.io/badge/Access_Control-black?style=flat-square&logo=hackthebox&logoColor=green)
+![RCE](https://img.shields.io/badge/RCE-black?style=flat-square&logo=terminal&logoColor=red)
+![Misconfiguration](https://img.shields.io/badge/Misconfiguration-black?style=flat-square&logo=nginx&logoColor=lightgreen)
+
 </div>
-
-```
-[+] Target acquired: Jose Abreu
-[+] Role:            Web Application Penetration Tester
-[+] Experience:      2 years — Blackbox & Whitebox assessments
-[+] Status:          Actively testing, actively learning
-```
-
----
-
-### `$ nmap -sV --top-ports skills jose-abreu`
-
-```
-PORT      STATE   SERVICE              VERSION
-7/tcp     open    sql-injection        Union-based, Error-based, Blind, Auth Bypass
-80/tcp    open    xss                  Stored, Reflected
-801/tcp   open    access-control       IDOR, Privilege Escalation, JWT Abuse
-1337/tcp  open    rce                  Webshell Deployment, File Upload Bypass
-443/tcp   open    misconfiguration     TLS, CORS, Verbose Errors, Debug Mode
-9999/tcp  open    recon                Path Traversal, Open Redirect, DoS
-```
 
 ---
 
@@ -44,15 +32,23 @@ PORT      STATE   SERVICE              VERSION
 
 ### `$ ls -la ~/projects`
 
-```
-drwxr-xr-x   Security-Vulnerability-Catalog/     # documented real-world findings, CVSS-scored
-drwxr-xr-x   Cybersecurity-Pentest-Web/           # methodology, wordlists, testing notes
-```
+<div align="center">
 
-**[Security-Vulnerability-Catalog](https://github.com/Disclored/Security-Vulnerability-Catalog)**
-Anonymized, reproducible web app vulnerability findings — SQL Injection, XSS, Broken Access Control, RCE, and more — each documented with exploitation steps, HTTP evidence, CVSS 3.1 scoring, and remediation guidance.
+[![Security Vulnerability Catalog](https://github-readme-stats.vercel.app/api/pin/?username=Disclored&repo=Security-Vulnerability-Catalog&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Disclored/Security-Vulnerability-Catalog)
+[![Cybersecurity Pentest Web](https://github-readme-stats.vercel.app/api/pin/?username=Disclored&repo=Cybersecurity_PentestWeb&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Disclored/Cybersecurity_PentestWeb)
+
+</div>
+
+**[Security-Vulnerability-Catalog](https://github.com/Disclored/Security-Vulnerability-Catalog)** — Anonymized, reproducible web app vulnerability findings (SQL Injection, XSS, Broken Access Control, RCE, and more), each documented with exploitation steps, HTTP evidence, CVSS 3.1 scoring, and remediation guidance.
 
 ---
+
+### `$ finger jose-abreu`
+
+```
+Login: jose-abreu                       Name: Jose Abreu
+Role:  Web Application Penetration Tester
+```
 
 <div align="center">
 
