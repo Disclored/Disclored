@@ -34,12 +34,14 @@
 
 <div align="center">
 
-[![Security Vulnerability Catalog](https://github-readme-stats.vercel.app/api/pin/?username=Disclored&repo=Security-Vulnerability-Catalog&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Disclored/Security-Vulnerability-Catalog)
-[![Cybersecurity Pentest Web](https://github-readme-stats.vercel.app/api/pin/?username=Disclored&repo=Cybersecurity_PentestWeb&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Disclored/Cybersecurity_PentestWeb)
+[![Repo](https://img.shields.io/badge/GitHub-Security--Vulnerability--Catalog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Disclored/Security-Vulnerability-Catalog)
+[![Repo](https://img.shields.io/badge/GitHub-Cybersecurity__Pentest__Web-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Disclored/Cybersecurity_PentestWeb)
 
 </div>
 
 **[Security-Vulnerability-Catalog](https://github.com/Disclored/Security-Vulnerability-Catalog)** — Anonymized, reproducible web app vulnerability findings (SQL Injection, XSS, Broken Access Control, RCE, and more), each documented with exploitation steps, HTTP evidence, CVSS 3.1 scoring, and remediation guidance.
+
+**[Cybersecurity_PentestWeb](https://github.com/Disclored/Cybersecurity_PentestWeb)** — Wordlists, testing methodology, and pentesting notes.
 
 ---
 
