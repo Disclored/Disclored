@@ -1,5 +1,3 @@
-<div align="center">
-
 <pre>
 ┌──(jose-abreu㉿recon)-[~]
 └─$ whoami --verbose
