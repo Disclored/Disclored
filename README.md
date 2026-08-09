@@ -8,11 +8,11 @@
 **Jose Abreu** — Web Application Penetration Tester
 `Cybersecurity Expert` · `Blackbox & Whitebox` · `Actively testing, actively learning`
 
-![SQL Injection](https://img.shields.io/badge/SQL_Injection-black?style=flat-square&logo=databricks&logoColor=white)
-![XSS](https://img.shields.io/badge/XSS-black?style=flat-square&logo=javascript&logoColor=yellow)
-![Access Control](https://img.shields.io/badge/Access_Control-black?style=flat-square&logo=hackthebox&logoColor=green)
-![RCE](https://img.shields.io/badge/RCE-black?style=flat-square&logo=terminal&logoColor=red)
-![Misconfiguration](https://img.shields.io/badge/Misconfiguration-black?style=flat-square&logo=nginx&logoColor=lightgreen)
+- ![SQL Injection](https://img.shields.io/badge/SQL_Injection-black?style=flat-square&logo=databricks&logoColor=white)
+- ![XSS](https://img.shields.io/badge/XSS-black?style=flat-square&logo=javascript&logoColor=yellow)
+- ![Broken Access Control](https://img.shields.io/badge/Access_Control-black?style=flat-square&logo=hackthebox&logoColor=green)
+- ![RCE](https://img.shields.io/badge/RCE-black?style=flat-square&logo=terminal&logoColor=red)
+- ![Misconfiguration](https://img.shields.io/badge/Misconfiguration-black?style=flat-square&logo=nginx&logoColor=lightgreen)
 
 </div>
 
