@@ -8,7 +8,7 @@
 **Jose Abreu** — Web Application Penetration Tester
 `Cybersecurity Expert` · `Blackbox & Whitebox` · `Actively testing, actively learning`
 
-- ![SQL Injection]
+- SQL Injection
 - ![XSS]
 - ![Broken Access Control]
 - ![RCE]
