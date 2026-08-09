@@ -4,7 +4,7 @@
 </pre>
 
 **Jose Abreu** — Web Application Penetration Tester
-`Cybersecurity Expert` · `Blackbox & Whitebox` · `Actively testing, actively learning`
+`Cybersecurity Expert` · `Blackbox & Whitebox`
 
 - SQL Injection
 - Cross-Site-Scripting (XSS)
