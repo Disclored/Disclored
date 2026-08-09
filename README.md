@@ -7,10 +7,10 @@
 `Cybersecurity Expert` · `Blackbox & Whitebox` · `Actively testing, actively learning`
 
 - SQL Injection
-- ![XSS]
-- ![Broken Access Control]
-- ![RCE]
-- ![Misconfiguration]
+- Cross-Site-Scripting (XSS)
+- Broken Access Control
+- Remote Code Execution
+- Misconfiguration / Hardening
 
 </div>
 
