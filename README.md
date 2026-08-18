@@ -28,9 +28,10 @@
 
 ### `$ ll ~/projects`
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Disclored&repo=Security-Vulnerability-Catalog&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/Disclored/Security-Vulnerability-Catalog)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Disclored&repo=Cybersecurity_PentestWeb&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/Disclored/Cybersecurity_PentestWeb)
+| | Repository | Stack | Description |
+|---|---|---|---|
+| 📂 | **[Security-Vulnerability-Catalog](https://github.com/Disclored/Security-Vulnerability-Catalog)** | `Markdown` `OWASP` | Anonymized, reproducible web app vulnerability findings (SQL Injection, XSS, Broken Access Control, RCE, and more) — each documented with exploitation steps, HTTP evidence, CVSS 3.1 scoring, and remediation guidance. |
+| 📂 | **[Cybersecurity_PentestWeb](https://github.com/Disclored/Cybersecurity_PentestWeb)** | `Wordlists` `Recon` | Wordlists, testing methodology, and pentesting notes. |
 
 ---
 
