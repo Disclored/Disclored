@@ -28,9 +28,9 @@
 
 ### `$ ll ~/projects`
 
-**[Security-Vulnerability-Catalog](https://github.com/Disclored/Security-Vulnerability-Catalog)** — Anonymized, reproducible web app vulnerability findings (SQL Injection, XSS, Broken Access Control, RCE, and more), each documented with exploitation steps, HTTP evidence, CVSS 3.1 scoring, and remediation guidance.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Disclored&repo=Security-Vulnerability-Catalog&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/Disclored/Security-Vulnerability-Catalog)
 
-**[Cybersecurity_PentestWeb](https://github.com/Disclored/Cybersecurity_PentestWeb)** — Wordlists, testing methodology, and pentesting notes.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Disclored&repo=Cybersecurity_PentestWeb&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/Disclored/Cybersecurity_PentestWeb)
 
 ---
 
