@@ -27,10 +27,10 @@
 
 ### `$ ll ~/projects`
 
-| Repository | Stack | Description |
-|---|---|---|
-| **[Security-Vulnerability-Catalog](https://github.com/Disclored/Security-Vulnerability-Catalog)** | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white) `Markdown` | Anonymized, reproducible web app vulnerability findings (SQL Injection, XSS, Broken Access Control, RCE, and more) — each documented with exploitation steps, HTTP evidence, CVSS 3.1 scoring, and remediation guidance. |
-| **[Cybersecurity_PentestWeb](https://github.com/Disclored/Cybersecurity_PentestWeb)** | ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white) `Wordlists` | Wordlists, testing methodology, and pentesting notes. |
+|  | Repository | Stack | Description |
+|---|---|---|---|
+| ![OWASP](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/owasp.svg) | **[Security-Vulnerability-Catalog](https://github.com/Disclored/Security-Vulnerability-Catalog)** | `Markdown` `OWASP` | Anonymized, reproducible web app vulnerability findings (SQL Injection, XSS, Broken Access Control, RCE, and more) — each documented with exploitation steps, HTTP evidence, CVSS 3.1 scoring, and remediation guidance. |
+| ![Metasploit](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/metasploit.svg) | **[Cybersecurity_PentestWeb](https://github.com/Disclored/Cybersecurity_PentestWeb)** | `Wordlists` `Recon` | Wordlists, testing methodology, and pentesting notes. |
 
 ---
 
