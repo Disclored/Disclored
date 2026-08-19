@@ -1,6 +1,6 @@
 <pre>
 ┌──(jose-abreu㉿recon)-[~]
-└─$ whoami --verbose<img src="https://cdn.simpleicons.org/suse/FFFFFF?viewbox=auto" width="30" height="30" alt="SUSE" align="right" />
+└─$ whoami --verbose
 </pre>
 
 **Jose Abreu** — Web Application Penetration Tester
@@ -36,5 +36,6 @@
 <div align="center">
 
 *All testing documented in this profile was performed in authorized environments with explicit permission.*
+<img src="https://cdn.simpleicons.org/suse/FFFFFF?viewbox=auto" width="30" height="30" alt="SUSE" align="right" />
 
 </div>
