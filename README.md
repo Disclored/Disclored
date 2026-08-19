@@ -1,8 +1,18 @@
+<table>
+<tr>
+<td>
+
 <pre>
 ┌──(jose-abreu㉿recon)-[~]
 └─$ whoami --verbose
-<img src="https://cdn.simpleicons.org/suse/FFFFFF?viewbox=auto" width="45" height="45" alt="SUSE" style="float: right;" />
 </pre>
+
+</td>
+<td align="right">
+<img src="https://cdn.simpleicons.org/suse/FFFFFF?viewbox=auto" width="45" height="45" alt="SUSE" />
+</td>
+</tr>
+</table>
 
 **Jose Abreu** — Web Application Penetration Tester
 `Cybersecurity Expert` · `Blackbox & Whitebox`
