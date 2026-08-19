@@ -26,11 +26,20 @@
 ---
 
 ### `$ ll ~/projects`
-
 | Icon | Repository | Stack | Description |
 |:---:|---|---|---|
 | <img src="https://cdn.simpleicons.org/owasp/FFFFFF" width="60" height="60" alt="OWASP" /> | **[Security-Vulnerability-Catalog](https://github.com/Disclored/Security-Vulnerability-Catalog)** | `Markdown` `OWASP` | Anonymized, reproducible web app vulnerability findings (SQL Injection, XSS, Broken Access Control, RCE, and more) — each documented with exploitation steps, HTTP evidence, CVSS 3.1 scoring, and remediation guidance. |
 | <img src="https://cdn.simpleicons.org/kalilinux/FFFFFF?viewbox=auto" width="150" height="150" alt="Kali Linux" /> | **[Cybersecurity_PentestWeb](https://github.com/Disclored/Cybersecurity_PentestWeb)** | `Wordlists` `Recon` | Wordlists, testing methodology, and pentesting notes. |
+
+---
+
+### `$ uname -a`
+`Environments & Distros`
+
+<img src="https://cdn.simpleicons.org/linux/FFFFFF" width="45" height="45" alt="Linux" />
+<img src="https://cdn.simpleicons.org/kalilinux/FFFFFF?viewbox=auto" width="45" height="45" alt="Kali Linux" />
+<img src="https://cdn.simpleicons.org/suse/FFFFFF?viewbox=auto" width="45" height="45" alt="SUSE" />
+<img src="https://cdn.simpleicons.org/ubuntu/FFFFFF" width="45" height="45" alt="Ubuntu" />
 
 ---
 
