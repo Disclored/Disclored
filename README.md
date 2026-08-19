@@ -36,6 +36,8 @@
 <div align="center">
 
 *All testing documented in this profile was performed in authorized environments with explicit permission.*
+
+### SUSE SAP/HANA
 <img src="https://cdn.simpleicons.org/suse/FFFFFF?viewbox=auto" width="30" height="30" alt="SUSE" align="right" />
 
 </div>
